@@ -2,7 +2,7 @@
 
 ## Hardware Assembly
 
-Sensor:               Arduino:
+<br Sensor:               Arduino:/>
 PulseSensor (signal)  A0	  Analog input
 PulseSensor (VCC)	    5V	  Power
 PulseSensor (GND)	    GND	  Ground
