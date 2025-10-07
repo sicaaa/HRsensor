@@ -1,1 +1,2 @@
-# HRsensor
+# HR-Sensor w/ NeoPixel
+
