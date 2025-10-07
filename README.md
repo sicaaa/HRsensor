@@ -2,10 +2,10 @@
 
 ## Hardware Assembly
 
-Sensor:               Arduino: <br/>
-PulseSensor (signal)  A0	  Analog input
-PulseSensor (VCC)	    5V	  Power
-PulseSensor (GND)	    GND	  Ground
-NeoPixel Data In	    6	    Digital output pin
-NeoPixel VCC	        5V	  Power
-NeoPixel GND	        GND	  Ground
+Sensor to Arduino: <br/>
+PulseSensor (signal) — A0	  Analog input<br/>
+PulseSensor (VCC) — 5V	  Power<br/>
+PulseSensor (GND) —  GND	  Ground<br/>
+NeoPixel Data In — 6	    Digital output pin<br/>
+NeoPixel VCC	 — 5V	  Power<br/>
+NeoPixel GND — GND	  Ground<br/>
